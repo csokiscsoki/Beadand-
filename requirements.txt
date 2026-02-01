@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn
+streamlit
+requests
+pandas
+plotly
+beautifulsoup4
